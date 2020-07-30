@@ -12,7 +12,7 @@
  
  
  		dependencies {
-	        	implementation 'com.github.developeramit3:CameraHandler:Tag'
+	        	implementation 'com.github.developeramit3:CameraHandler:ad1da9dfba'
 		}
 
 
